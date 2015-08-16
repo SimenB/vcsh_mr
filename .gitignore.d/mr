@@ -5,11 +5,13 @@
 !/.config/mr/available.d/git.vcsh
 !/.config/mr/available.d/mr.vcsh
 !/.config/mr/available.d/nano.vcsh
+!/.config/mr/available.d/scripts.vcsh
 !/.config/mr/available.d/zsh.vcsh
 !/.config/mr/config.d
 !/.config/mr/config.d/git.vcsh
 !/.config/mr/config.d/mr.vcsh
 !/.config/mr/config.d/nano.vcsh
+!/.config/mr/config.d/scripts.vcsh
 !/.config/mr/config.d/zsh.vcsh
 !/.gitignore.d
 !/.gitignore.d/mr
