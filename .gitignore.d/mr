@@ -8,6 +8,8 @@
 !/.config/mr/available.d/mr.vcsh
 !/.config/mr/available.d/nano.vcsh
 !/.config/mr/available.d/scripts.vcsh
+!/.config/mr/available.d/tmux.vcsh
+!/.config/mr/available.d/tpm.mr
 !/.config/mr/available.d/vim.vcsh
 !/.config/mr/available.d/zsh.vcsh
 !/.config/mr/config.d
@@ -17,6 +19,8 @@
 !/.config/mr/config.d/mr.vcsh
 !/.config/mr/config.d/nano.vcsh
 !/.config/mr/config.d/scripts.vcsh
+!/.config/mr/config.d/tmux.vcsh
+!/.config/mr/config.d/tpm.mr
 !/.config/mr/config.d/vim.vcsh
 !/.config/mr/config.d/zsh.vcsh
 !/.gitignore.d
