@@ -2,6 +2,7 @@
 !/.config
 !/.config/mr
 !/.config/mr/available.d
+!/.config/mr/available.d/brew.vcsh
 !/.config/mr/available.d/functions.vcsh
 !/.config/mr/available.d/git.vcsh
 !/.config/mr/available.d/iterm2.vcsh
@@ -14,6 +15,7 @@
 !/.config/mr/available.d/vim.vcsh
 !/.config/mr/available.d/zsh.vcsh
 !/.config/mr/config.d
+!/.config/mr/config.d/brew.vcsh
 !/.config/mr/config.d/functions.vcsh
 !/.config/mr/config.d/git.vcsh
 !/.config/mr/config.d/iterm2.vcsh
