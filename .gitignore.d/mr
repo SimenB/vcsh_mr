@@ -7,6 +7,7 @@
 !/.config/mr/available.d/git.vcsh
 !/.config/mr/available.d/iterm2.vcsh
 !/.config/mr/available.d/k.git
+!/.config/mr/available.d/karabiner.vcsh
 !/.config/mr/available.d/mr.vcsh
 !/.config/mr/available.d/nano.vcsh
 !/.config/mr/available.d/oh-my-zsh.git
@@ -27,6 +28,7 @@
 !/.config/mr/config.d/git.vcsh
 !/.config/mr/config.d/iterm2.vcsh
 !/.config/mr/config.d/k.git
+!/.config/mr/config.d/karabiner.vcsh
 !/.config/mr/config.d/mr.vcsh
 !/.config/mr/config.d/nano.vcsh
 !/.config/mr/config.d/oh-my-zsh.git
