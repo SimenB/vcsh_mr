@@ -6,6 +6,7 @@
 !/.config/mr/available.d/brew.vcsh
 !/.config/mr/available.d/functions.vcsh
 !/.config/mr/available.d/git.vcsh
+!/.config/mr/available.d/gpg.vcsh
 !/.config/mr/available.d/iterm2.vcsh
 !/.config/mr/available.d/k.git
 !/.config/mr/available.d/karabiner.vcsh
@@ -28,6 +29,7 @@
 !/.config/mr/config.d/brew.vcsh
 !/.config/mr/config.d/functions.vcsh
 !/.config/mr/config.d/git.vcsh
+!/.config/mr/config.d/gpg.vcsh
 !/.config/mr/config.d/iterm2.vcsh
 !/.config/mr/config.d/k.git
 !/.config/mr/config.d/karabiner.vcsh
