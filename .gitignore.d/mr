@@ -11,6 +11,7 @@
 !/.config/mr/available.d/karabiner.vcsh
 !/.config/mr/available.d/mr.vcsh
 !/.config/mr/available.d/nano.vcsh
+!/.config/mr/available.d/nvm.vcsh
 !/.config/mr/available.d/oh-my-zsh.git
 !/.config/mr/available.d/scripts.vcsh
 !/.config/mr/available.d/tmux.vcsh
@@ -33,6 +34,7 @@
 !/.config/mr/config.d/karabiner.vcsh
 !/.config/mr/config.d/mr.vcsh
 !/.config/mr/config.d/nano.vcsh
+!/.config/mr/config.d/nvm.vcsh
 !/.config/mr/config.d/oh-my-zsh.git
 !/.config/mr/config.d/scripts.vcsh
 !/.config/mr/config.d/tmux.vcsh
