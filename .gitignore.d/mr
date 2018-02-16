@@ -13,6 +13,7 @@
 !/.config/mr/available.d/nano.vcsh
 !/.config/mr/available.d/nvm.vcsh
 !/.config/mr/available.d/oh-my-zsh.git
+!/.config/mr/available.d/ripgrep.vcsh
 !/.config/mr/available.d/scripts.vcsh
 !/.config/mr/available.d/tmux.vcsh
 !/.config/mr/available.d/tpm.mr
@@ -36,6 +37,7 @@
 !/.config/mr/config.d/nano.vcsh
 !/.config/mr/config.d/nvm.vcsh
 !/.config/mr/config.d/oh-my-zsh.git
+!/.config/mr/config.d/ripgrep.vcsh
 !/.config/mr/config.d/scripts.vcsh
 !/.config/mr/config.d/tmux.vcsh
 !/.config/mr/config.d/tpm.mr
