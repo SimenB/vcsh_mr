@@ -3,6 +3,7 @@
 !/.config/mr
 !/.config/mr/available.d
 !/.config/mr/available.d/alias-tips.git
+!/.config/mr/available.d/bat.vcsh
 !/.config/mr/available.d/brew.vcsh
 !/.config/mr/available.d/functions.vcsh
 !/.config/mr/available.d/git.vcsh
@@ -27,6 +28,7 @@
 !/.config/mr/available.d/zsh.vcsh
 !/.config/mr/config.d
 !/.config/mr/config.d/alias-tips.git
+!/.config/mr/config.d/bat.vcsh
 !/.config/mr/config.d/brew.vcsh
 !/.config/mr/config.d/functions.vcsh
 !/.config/mr/config.d/git.vcsh
