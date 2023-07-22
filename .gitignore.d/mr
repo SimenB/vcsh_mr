@@ -16,6 +16,7 @@
 !/.config/mr/available.d/oh-my-zsh.git
 !/.config/mr/available.d/ripgrep.vcsh
 !/.config/mr/available.d/scripts.vcsh
+!/.config/mr/available.d/starship.vcsh
 !/.config/mr/available.d/tmux.vcsh
 !/.config/mr/available.d/tpm.mr
 !/.config/mr/available.d/urxvt.vcsh
@@ -41,6 +42,7 @@
 !/.config/mr/config.d/oh-my-zsh.git
 !/.config/mr/config.d/ripgrep.vcsh
 !/.config/mr/config.d/scripts.vcsh
+!/.config/mr/config.d/starship.vcsh
 !/.config/mr/config.d/tmux.vcsh
 !/.config/mr/config.d/tpm.mr
 !/.config/mr/config.d/urxvt.vcsh
