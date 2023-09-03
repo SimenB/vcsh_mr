@@ -21,6 +21,7 @@
 !/.config/mr/available.d/tpm.mr
 !/.config/mr/available.d/urxvt.vcsh
 !/.config/mr/available.d/vim.vcsh
+!/.config/mr/available.d/zellij.vcsh
 !/.config/mr/available.d/zsh-autosuggestions.git
 !/.config/mr/available.d/zsh-completions.git
 !/.config/mr/available.d/zsh-history-substring-search.git
@@ -47,6 +48,7 @@
 !/.config/mr/config.d/tpm.mr
 !/.config/mr/config.d/urxvt.vcsh
 !/.config/mr/config.d/vim.vcsh
+!/.config/mr/config.d/zellij.vcsh
 !/.config/mr/config.d/zsh-autosuggestions.git
 !/.config/mr/config.d/zsh-completions.git
 !/.config/mr/config.d/zsh-history-substring-search.git
